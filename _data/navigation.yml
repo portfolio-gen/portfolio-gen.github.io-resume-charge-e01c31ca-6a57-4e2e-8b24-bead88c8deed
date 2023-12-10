@@ -1,0 +1,16 @@
+main:
+  - title: "Work Experience"
+    url: '/workexperience/'
+  
+  - title: "Projects"
+    url: '/projects/'
+  
+  - title: "Education"
+    url: '/education/'
+  
+  - title: "Skills"
+    url: '/skills/'
+  
+  - title: "About Me"
+    url: '/about/'
+  
